@@ -1,0 +1,2 @@
+# Dataset-sanity-checks-for-Classification-
+The solution explores the raw input dataset and identifies various data discrepancies like Data duplicates, Label ambiguity, Variable mix, Variable prediction contribution and Label drift. The solution tests for these discrepancies and report the user of its suitability for Classification Modeling. It output the quantified measure of the discrepancies and alert the user of necessary data preparation required prior to training.
